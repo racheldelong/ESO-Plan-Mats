@@ -1,0 +1,16 @@
+Ayleid Bench, Carved
+Ayleid Bookcase, Cluttered
+Ayleid Bookshelf, Cluttered
+Ayleid Brazier, Fiery
+Ayleid Brazier, Welkynd Holder
+Ayleid Table, Carved
+Daedric Cage, Hanging
+Daedric Doorway, Spiked
+Daedric Fence, Section
+Daedric Brazier, Coldharbour
+Hlaalu Bath Tub, Masterwork
+Dres Sewing Kit, Master's
+Mages Apparatus, Master
+Mammoth Cheese, Mastercrafted
+Dwarven Gyroscope, Masterwork
+Telvanni Candelabra, Masterwork

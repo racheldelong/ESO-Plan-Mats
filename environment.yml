@@ -1,0 +1,15 @@
+name: d2project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - lxml
+  - html5lib
+  - beautifulsoup4
+  - notebook
+  - requests
+  - seaborn
+prefix: C:\Users\Olive\anaconda3\envs\d2project
