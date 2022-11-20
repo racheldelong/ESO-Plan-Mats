@@ -1,8 +1,6 @@
 # Elder Scrolls Online: Furnishing Plan Materials
 
-
-
-### __Introduction__
+## Introduction
 
 
 For my Data Analysis 2 project, I'm analyzing the demand for materials needed to craft new furnishing plans added in major content patches for *The Elder Scrolls Online*. 
@@ -13,7 +11,7 @@ __Objective:__ assess how furnishing plans added in past major content patches w
 
 __Statement of Work:__ Create a dataframe of furnishing plans from The Elder Scrolls Online. For each plan, find which patch added it to the game, which housing materials it requires, and the furnishing category of the item crafted. Compare the impact of past patches on housing material demand.
 
-
+![Thanksgiving scene](images/thanksgiving.jpg 'Thanksgiving scene made in ESO housing')
 
 ---
 
@@ -22,7 +20,7 @@ __Statement of Work:__ Create a dataframe of furnishing plans from The Elder Scr
 This project uses Python 3.9.15
 
 
-__Required packages:__
+__Packages:__
 
 - pandas
 - matplotlib
@@ -76,11 +74,11 @@ jupyter notebook
 ## Project Plan
 
 
-__Feature 1: Loading data.__
+### __Feature 1: Loading data.__
 
 Read three spreadsheets from Google Sheets, and scrape data from UESP.net and ESO-HUB.com to get a list of newly added furnishing plans and fill out the data for each.
 
-__Feature 2: Clean and operate on the data while combining them.__ 
+### __Feature 2: Clean and operate on the data while combining them.__ 
 
 Merge the patch data from ESO Furnishings Helper with the plan materials in Tsu's Magical Pricing Assistant. 
 
@@ -88,7 +86,7 @@ Remove any duplicate plans, and use pandas concatenate to combine with web scrap
 
 Find the sum of housing materials required to craft each plan and the total plans added per content patch, and merge with the patch information dataframe.
 
-__Feature 3: Visualize / present your data.__ 
+### __Feature 3: Visualize / present your data.__ 
 
 Create three figures with matplotlib:
 
@@ -96,7 +94,7 @@ Create three figures with matplotlib:
 - pie charts for the ratio of housing materials required to craft plans added in each update 
 - pie charts for crafting materials per plan category
 
-__Feature 4: Best practices.__ 
+### __Feature 4: Best practices.__ 
 
 Use a conda environment and included instructions for setup.
 
@@ -105,11 +103,11 @@ Use a conda environment and included instructions for setup.
 ## __Figures__
 
 
-![](figures/ESOPlanMats_year.png "Elder Scrolls Online: Furnishing Plans Added Per Patch")
+![](images/ESOPlanMats_year.png "Elder Scrolls Online: Furnishing Plans Added Per Patch")
 ---
-![](figures/ESOPlanMats_patches.png "Elder Scrolls Online: Furnishing Materials Required By New Plans Per Patch")
+![](images/ESOPlanMats_patches.png "Elder Scrolls Online: Furnishing Materials Required By New Plans Per Patch")
 
-![](figures/ESOPlanMats_cat.png "Elder Scrolls Online: Housing Materials Used By Furnishing Plans Per Category")
+![](images/ESOPlanMats_cat.png "Elder Scrolls Online: Housing Materials Used By Furnishing Plans Per Category")
 
 ---
 
