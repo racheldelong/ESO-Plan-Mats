@@ -1,54 +1,77 @@
 # Elder Scrolls Online: Furnishing Plan Materials
 
 
+
 ### __Introduction__
 
+
 For my Data Analysis 2 project, I'm analyzing the demand for materials needed to craft new furnishing plans added in major content patches for *The Elder Scrolls Online*. 
-
-
 
 
 __Objective:__ assess how furnishing plans added in past major content patches would likely affect demand for crafting materials in The Elder Scrolls Online.
 
 
+__Statement of Work:__ Create a dataframe of furnishing plans from The Elder Scrolls Online. For each plan, find which patch added it to the game, which housing materials it requires, and the furnishing category of the item crafted. Compare the impact of past patches on housing material demand.
+
+
 
 ---
+
+## Requirements
+
+This project uses Python 3.9.15
+
+
+__Required packages:__
+
+- pandas
+- matplotlib
+- beautifulsoup4
+- requests
+- jupyter notebook
 
 ## Setup
 
-### __Requirements:__
+1. Download zip or clone ESO-Plan-Mats repository:
 
-Python 3.10.4
+```
+git clone https://github.com/racheldelong/ESO-Plan-Mats.git
+```
 
-__Packages used:__
+2. To set up [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) environment, navigate to the ESO-Plan-Mats folder in Anaconda Prompt and enter:
 
-- jupyter notebook
-- pandas 1.4.4
-- requests 2.28.1
-- beautifulSoup4 4.11.1
-- matplotlib 3.5.2
-- ipykernel
+```
+conda env create -f environment.yml
+```
 
------- *add conda instructions* -----
 
------- *add tsv instructions* -----
+3. After environment is created, activate by entering:
+
+```
+conda activate esoplans
+```
+
+4. Start Jupyter notebook from Anaconda Prompt by entering:
+
+```
+jupyter notebook
+```
+
+5. Click 'ESOPlanMats.ipynb' to open project notebook.
 
 ---
-
 
 ## Data Sources
 
-- Tsu's Magical Pricing Assistant [link](https://docs.google.com/spreadsheets/d/1gA3gLV_trvozQjHANvCWIrzmCMhEGdf6dm7N_U2CYuY/)
+- Tsu's Magical Pricing Assistant, Furniture Catalog [link](https://docs.google.com/spreadsheets/d/1gA3gLV_trvozQjHANvCWIrzmCMhEGdf6dm7N_U2CYuY/)
 
-- ESO Furnishings Helper by Sapphire_Ocelot [link](https://docs.google.com/spreadsheets/d/11XxNt07znE3cHqWMecO-NxSjNWWnaA8hMA6uDV_53O8/)
+- ESO Furnishings Helper by Sapphire_Ocelot, Plans [link](https://docs.google.com/spreadsheets/d/11XxNt07znE3cHqWMecO-NxSjNWWnaA8hMA6uDV_53O8/)
 
-- The Unofficial Elder Scrolls Pages (new plan lists) [UESP.net](https://en.uesp.net/wiki/Main_Page)
+- The Unofficial Elder Scrolls Pages [UESP.net](https://en.uesp.net/wiki/Main_Page)
 
 - ESO-Hub.com (new plan details) [ESO-Hub.com](https://eso-hub.com/en/housing)
 
-
 ---
-
 
 ## Project Plan
 
@@ -67,11 +90,11 @@ Find the sum of housing materials required to craft each plan and the total plan
 
 __Feature 3: Visualize / present your data.__ 
 
-Create three figures with matplotlib: 
+Create three figures with matplotlib:
 
-- a horizontal bar graph of the number of plans released per update 
+- a horizontal bar graph of the number of plans released per update & year
 - pie charts for the ratio of housing materials required to craft plans added in each update 
-- a bar graph of plans added over time
+- pie charts for crafting materials per plan category
 
 __Feature 4: Best practices.__ 
 
@@ -79,11 +102,22 @@ Use a conda environment and included instructions for setup.
 
 ---
 
+## __Figures__
+
+
+![](figures/ESOPlanMats_year.png "Elder Scrolls Online: Furnishing Plans Added Per Patch")
+---
+![](figures/ESOPlanMats_patches.png "Elder Scrolls Online: Furnishing Materials Required By New Plans Per Patch")
+
+![](figures/ESOPlanMats_cat.png "Elder Scrolls Online: Housing Materials Used By Furnishing Plans Per Category")
+
+---
+
 __Changes to Project Plan:__
 
 *Original project plan was to analyze Tales of Tribute card game matches.*
 
-*Changed project to ESO Furnishing Plan Materials to build on Data 1 project topic.*
+*Changed project to ESO Furnishing Plan Materials to build on Data 1 project topic and have more options for additional datasets.*
 
 
 
