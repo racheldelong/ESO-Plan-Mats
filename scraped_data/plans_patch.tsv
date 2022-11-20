@@ -141,7 +141,7 @@ Alinor Windowbox, Blue Wisteria	epic	Conservatory		9.0		13.0	8.0				Summerset	30
 Alinor Windowbox, Purple Wisteria	epic	Conservatory		8.0		12.0	8.0				Summerset	28.0
 Alinor Winerack, Polished	superior	Hearth		6.0			10.0				Summerset	16.0
 Alinor Writing Desk, Noble	epic	Library		7.0		9.0	12.0				Summerset	28.0
-Ancient Nord Monolith, Head	 legendary	Courtyard	12.0			15.0		15.0			Stonethorn	0.0
+Ancient Nord Monolith, Head	legendary	Courtyard	12.0			15.0		15.0			Stonethorn	0.0
 Apparatus, Boiler	legendary	Workshop	13.0	11.0		14.0		15.0			Homestead	53.0
 Apparatus, Gem Calipers	legendary	Workshop	13.0	11.0		15.0		15.0			Homestead	54.0
 Apple, Display	fine	Hearth		3.0							Homestead	3.0
@@ -276,7 +276,7 @@ Basket of Lettuce	superior	Hearth		8.0			6.0				Homestead	14.0
 Basket of Tomatoes	superior	Hearth	6.0	10.0					8.0		Homestead	24.0
 Beet String, Display	fine	Hearth		3.0							Homestead	3.0
 Beets, Display	fine	Hearth		3.0							Homestead	3.0
-Blackreach Geode, Iridescent	 legendary	Conservatory	13.0	9.0	10.0	13.0					Stonethorn	0.0
+Blackreach Geode, Iridescent	legendary	Conservatory	13.0	9.0	10.0	13.0					Stonethorn	0.0
 Book Row, Levitating	fine	Library				7.0					Summerset	7.0
 Book Stack, Levitating	fine	Library				7.0					Summerset	7.0
 Bottle, Elixir	epic	Hearth	11.0	7.0		8.0					Homestead	26.0
@@ -2400,159 +2400,159 @@ Wood Elf Vessel, Tiered Painted	superior	Parlor		9.0		6.0		6.0			Homestead	21.0
 Wood Elf Wall Hide, Fur	fine	Undercroft								6.0	Homestead	6.0
 Wood Elf Wall Hide, Pierced	fine	Undercroft								7.0	Homestead	7.0
 Wood Elf Wall Hide, Spotted	fine	Undercroft								7.0	Homestead	7.0
-Alinor Easel, Carved	 legendary	Gallery	10.0	10.0			15.0	15.0			Ascending Tide	50.0
-Alinor Painting, Unfinished	 legendary	Gallery	13.0	10.0			11.0		15.0		Lost Depths	49.0
-Blackwood Cottage Painting, Unframed	 legendary	Gallery	13.0	11.0			11.0			13.0	Waking Flame	48.0
-Blackwood Provisioning Station	 legendary	Services	10.0	11.0		13.0	15.0				Ascending Tide	49.0
-Book Stack, Well-Read	 fine	Library								5.0	High Isle	5.0
-Deadlands Archway	 epic	Structures			7.0	13.0				7.0	Deadlands	27.0
-Deadlands Brazier, Bladed	 superior	Lighting				6.0		9.0			Blackwood	15.0
-Deadlands Puzzle Cube	 legendary	Undercroft	12.0		8.0	15.0		15.0			Ascending Tide	50.0
-Deadlands Tapestry, Mehrunes Dagon	 legendary	Parlor	13.0		8.0			13.0	15.0		Ascending Tide	49.0
-Deadlands Throne	 legendary	Gallery	10.0			13.0	15.0	15.0			Ascending Tide	53.0
-Dwarven Pipeline, Column	 superior	Workshop				7.0		9.0			Morrowind / Clockwork	16.0
-Fargrave Balcony	 superior	Structures					9.0	6.0			Ascending Tide	15.0
-Fargrave Book Stack, Levitating	 epic	Library	9.0			7.0				13.0	Deadlands	29.0
-Fargrave Canopy, Massive	 superior	Structures					6.0		9.0		Ascending Tide	15.0
-Fargrave Colonnade Pillar, Tall	 superior	Courtyard	6.0			9.0					Ascending Tide	15.0
-Fargrave Defensive Spike, Corner	 superior	Structures				6.0		9.0			Ascending Tide	15.0
-Fargrave Defensive Spike, Curved	 superior	Structures				6.0		9.0			Ascending Tide	15.0
-Fargrave Defensive Spike, Straight	 superior	Structures				6.0		9.0			Ascending Tide	15.0
-Fargrave Door	 superior	Structures					9.0	6.0			Ascending Tide	15.0
-Fargrave Facade, Huge	 superior	Structures	6.0			9.0					Ascending Tide	15.0
-Fargrave Platform, Square	 superior	Structures	6.0			9.0					Ascending Tide	15.0
-Fargrave Post, Garden Wall	 fine	Courtyard				5.0					Ascending Tide	5.0
-Fargrave Stairway, Stone	 fine	Structures				5.0					Ascending Tide	5.0
-Fargrave Stairway, Wide Stone	 superior	Structures	6.0			9.0					Ascending Tide	15.0
-Fargrave Wall, Exterior	 superior	Structures	6.0			9.0					Ascending Tide	15.0
-Fargrave Wall, Garden	 superior	Structures	6.0			9.0					Ascending Tide	15.0
-Fargrave Wall, Interior	 superior	Structures	6.0			9.0					Ascending Tide	15.0
-Fargrave Water Globules, Static	 legendary	Lighting	13.0	11.0		13.0					Ascending Tide	37.0
-High Isle Archway, Carved	 superior	Structures				6.0	9.0				Lost Depths	15.0
-High Isle Basket, Woven	 fine	Hearth					5.0				High Isle	5.0
-High Isle Beacon, Unlit	 legendary	Workshop	10.0		9.0		15.0	15.0			Lost Depths	49.0
-High Isle Bed, Canopy Full	 superior	Suite					6.0		9.0		High Isle	15.0
-High Isle Bed, Single	 fine	Suite							5.0		High Isle	5.0
-High Isle Bench, Padded	 superior	Dining					9.0		6.0		High Isle	15.0
-High Isle Bench, Sturdy	 superior	Dining		5.0			9.0				High Isle	14.0
-High Isle Bookcase, Carved Filled	 superior	Library		5.0			9.0				High Isle	14.0
-High Isle Bookcase, Wide Carved Filled	 epic	Library		6.0			13.0			10.0	High Isle	29.0
-High Isle Brazier, Bowl	 fine	Lighting						5.0			High Isle	5.0
-High Isle Brazier, Standing	 superior	Lighting				6.0		9.0			High Isle	15.0
-High Isle Caravel, Miniature	 legendary	Gallery	10.0				15.0		15.0		Lost Depths	40.0
-High Isle Carpet, Ballroom	 superior	Parlor		5.0					9.0		High Isle	14.0
-High Isle Chair, Ornate	 superior	Dining		5.0			9.0				High Isle	14.0
-High Isle Chair, Sturdy	 superior	Dining		5.0			9.0				High Isle	14.0
-High Isle Counter, Rustic	 fine	Dining					5.0				High Isle	5.0
-High Isle Counter, Sturdy	 superior	Dining		5.0			9.0				High Isle	14.0
-High Isle Crab, Steamed	 superior	Hearth	6.0	7.0							High Isle	13.0
-High Isle Crab, Steamed Pile	 epic	Hearth	9.0	10.0						7.0	High Isle	26.0
-High Isle Cup, Full	 fine	Hearth						5.0			High Isle	5.0
-High Isle Divider, Ornate	 epic	Suite	7.0	8.0			13.0				High Isle	28.0
-High Isle Door, Sturdy	 superior	Structures	6.0				9.0				Lost Depths	15.0
-High Isle Door, Turquoise	 superior	Structures	6.0				9.0				Lost Depths	15.0
-High Isle Doorway, Half-Timber	 fine	Structures				5.0					Lost Depths	5.0
-High Isle Doorway, Plaster	 fine	Structures				5.0					Lost Depths	5.0
-High Isle Dresser, Carved	 epic	Suite	7.0	8.0			13.0				High Isle	28.0
-High Isle Dresser, Rustic	 fine	Suite					5.0				High Isle	5.0
-High Isle End Table, Carved	 superior	Parlor		5.0			9.0				High Isle	14.0
-High Isle Goblet, Empty	 fine	Hearth						5.0			High Isle	5.0
-High Isle Hearth, Tilework	 legendary	Structures				15.0	15.0	13.0			Lost Depths	43.0
-High Isle Herb Rack, Ladder	 superior	Hearth	8.0				6.0				High Isle	14.0
-High Isle Hourglass, Gold	 legendary	Parlor	13.0	10.0	10.0						Lost Depths	33.0
-High Isle Lantern, Table	 superior	Lighting				6.0		9.0			High Isle	15.0
-High Isle Mirror, Standing	 epic	Suite			6.0		10.0	13.0			High Isle	29.0
-High Isle Mussel, Steamed Pile	 superior	Hearth	6.0	7.0							High Isle	13.0
-High Isle Nightstand, Ornate	 superior	Suite		5.0			9.0				High Isle	14.0
-High Isle Pillar, Ornate	 superior	Courtyard	6.0				9.0				Lost Depths	15.0
-High Isle Plate, Compass Rose Setting	 superior	Hearth		5.0			9.0				High Isle	14.0
-High Isle Platform, Tilework	 superior	Structures	6.0			9.0					Lost Depths	15.0
-High Isle Platform, Wooden Rectangle	 fine	Structures					5.0				Lost Depths	5.0
-High Isle Platform, Wooden Square	 superior	Structures	6.0				9.0				Lost Depths	15.0
-High Isle Railing, Carved	 superior	Structures	6.0				9.0				Lost Depths	15.0
-High Isle Railing Post, Carved	 superior	Courtyard	6.0				9.0				Lost Depths	15.0
-High Isle Rug, Octagonal	 fine	Parlor							5.0		High Isle	5.0
-High Isle Sconce, Glass	 superior	Lighting				6.0		9.0			High Isle	15.0
-High Isle Sconce, Ornate	 epic	Lighting				10.0	7.0	13.0			High Isle	30.0
-High Isle Serving Platter, Silver	 epic	Hearth		8.0	6.0			13.0			High Isle	27.0
-High Isle Stairway, Large Castle	 superior	Structures	6.0			9.0					Lost Depths	15.0
-High Isle Stairway, Tilework	 epic	Structures	7.0			13.0	10.0				Lost Depths	30.0
-High Isle Stool, Cushioned	 epic	Workshop		6.0			13.0		10.0		High Isle	29.0
-High Isle Stool, Rustic	 fine	Workshop					5.0				High Isle	5.0
-High Isle Stool, Sturdy	 superior	Workshop		5.0			9.0				High Isle	14.0
-High Isle Streetlight, Paired	 superior	Lighting					9.0	6.0			High Isle	15.0
-High Isle Table, Compass Rose	 epic	Dining	7.0	8.0			13.0				High Isle	28.0
-High Isle Table, Ornate	 superior	Dining		5.0			9.0				High Isle	14.0
-High Isle Table, Rustic	 fine	Dining					5.0				High Isle	5.0
-High Isle Table, Sturdy	 superior	Dining		5.0			9.0				High Isle	14.0
-High Isle Tapestry, Seaside Tourney	 legendary	Parlor	13.0	10.0					15.0		Lost Depths	38.0
-High Isle Tea Table, Round Wheel	 epic	Parlor	7.0	8.0			13.0				High Isle	28.0
-High Isle Trunk, Ornate	 epic	Suite	7.0	8.0			13.0				High Isle	28.0
-High Isle Trunk, Sturdy	 superior	Suite		5.0			9.0				High Isle	14.0
-High Isle Turret, Conical Castle	 epic	Structures	7.0			13.0	10.0				Lost Depths	30.0
-High Isle Walkway, Balcony	 superior	Structures	6.0				9.0				Lost Depths	15.0
-High Isle Walkway, Curved Castle	 superior	Structures	6.0			9.0					Lost Depths	15.0
-High Isle Walkway, Straight Castle	 superior	Structures	6.0			9.0					Lost Depths	15.0
-High Isle Wall Mirror, Gilded	 epic	Suite			9.0		7.0	10.0			High Isle	26.0
-High Isle Wall, Half-Timber	 fine	Structures				5.0					Lost Depths	5.0
-High Isle Wall, Thin Castle	 fine	Structures				5.0					Lost Depths	5.0
-High Isle Wardrobe, Compass Rose	 epic	Suite	7.0	8.0			13.0				High Isle	28.0
-High Isle Wardrobe, Rustic	 fine	Suite					5.0				High Isle	5.0
-High Isle Window, Turquoise	 superior	Structures	8.0				6.0				Lost Depths	14.0
-Leyawiin Armoire, Formal	 epic	Suite	9.0		6.0		13.0				Blackwood	28.0
-Leyawiin Wall, Castle	 superior	Structures				9.0	6.0				Deadlands	15.0
-Potted Trees, Stonelore Dogwood	 legendary	Conservatory	13.0	10.0	8.0	15.0					Lost Depths	46.0
-Psijic Banner, Long	 epic	Parlor	6.0		6.0	7.0			12.0		Summerset	31.0
-Shark Jaw, Massive	 legendary	Gallery	12.0	11.0						15.0	Lost Depths	38.0
-Solitude Game, Blood-On-The-Snow	 legendary	Parlor	13.0		9.0		15.0				Stonethorn	37.0
-Stool, Carved	 fine	Workshop					5.0	3.0			Homestead	8.0
-Druidic Bed, Ivy Stone Double	 epic	Suite		6.0		13.0				10.0	Firesong	29.0
-Druidic Bed, Ivy Stone Single	 superior	Suite	6.0			9.0					Firesong	15.0
-Druidic Bed, Wood Single	 superior	Suite					6.0		9.0		Firesong	15.0
-Druidic Bench, Curved Stone	 superior	Dining	6.0			9.0					Firesong	15.0
-Druidic Bench, Ivy Curved Stone	 epic	Dining	9.0	6.0		13.0					Firesong	28.0
-Druidic Bench, Ivy Stone	 superior	Dining	6.0			9.0					Firesong	15.0
-Druidic Bookcase, Short Stone	 fine	Library				5.0					Firesong	5.0
-Druidic Bookcase, Tall Stone	 superior	Library	6.0			9.0					Firesong	15.0
-Druidic Bookcase, Tall Wood	 superior	Library		5.0			9.0				Firesong	14.0
-Druidic Bowl, Clay	 fine	Hearth		4.0							Firesong	4.0
-Druidic Cage, Ivy Wood	 superior	Workshop	6.0				9.0				Firesong	15.0
-Druidic Chair, Stone	 fine	Dining				5.0					Firesong	5.0
-Druidic Chair, Wood	 fine	Dining					5.0				Firesong	5.0
-Druidic Chandelier, Firesong	 epic	Lighting	7.0	10.0		10.0					Firesong	27.0
-Druidic Dresser, Ivy Open Stone	 superior	Suite	6.0			9.0					Firesong	15.0
-Druidic Dresser, Open Stone	 superior	Suite	6.0			9.0					Firesong	15.0
-Druidic End Table, Ivy Stone	 superior	Parlor	6.0			9.0					Firesong	15.0
-Druidic Game, Marble Maze	 superior	Parlor	6.0			9.0					Firesong	15.0
-Druidic Gourd Bird Feeder	 fine	Courtyard		4.0							Firesong	4.0
-Druidic Gourd Candle, Hanging	 superior	Lighting		7.0		6.0					Firesong	13.0
-Druidic Gourd Candles, Stone	 superior	Lighting		5.0		9.0					Firesong	14.0
-Druidic Hearth, Stone	 epic	Lighting	7.0			13.0	10.0				Firesong	30.0
-Druidic Incense Burner, Clay	 epic	Undercroft	9.0	10.0		7.0					Firesong	26.0
-Druidic Meditation Stones, Tall	 superior	Courtyard	6.0			9.0					Firesong	15.0
-Druidic Mug, Clay	 fine	Hearth		4.0							Firesong	4.0
-Druidic Nightstand, Stone	 fine	Suite				5.0					Firesong	5.0
-Druidic Pillow, Woven	 fine	Suite							5.0		Firesong	5.0
-Druidic Pot, Clay	 superior	Hearth	6.0	7.0							Firesong	13.0
-Druidic Sculpture, Sphere	 epic	Courtyard	7.0			13.0	10.0				Firesong	30.0
-Druidic Statue, Planter	 epic	Courtyard	9.0	6.0		13.0					Firesong	28.0
-Druidic Table, Stone	 superior	Dining	6.0			9.0					Firesong	15.0
-Druidic Table, Wood	 fine	Dining					5.0				Firesong	5.0
-Druidic Tapestry, Woven	 superior	Parlor		5.0					9.0		Firesong	14.0
-Druidic Trunk, Stone	 epic	Suite	9.0		6.0	13.0					Firesong	28.0
-Druidic Wall Stone, Fertility	 superior	Gallery	6.0			9.0					Firesong	15.0
-Druidic Wall Stone, Flame	 superior	Gallery	6.0			9.0					Firesong	15.0
-Druidic Wall Stone, Spirits	 superior	Gallery	6.0			9.0					Firesong	15.0
-Druidic Wind Chimes, Gourd	 epic	Courtyard		10.0		7.0			10.0		Firesong	27.0
-Druidic Wind Chimes, Stone	 superior	Courtyard				6.0			9.0		Firesong	15.0
-Firesong Bookcase, Short Lava	 epic	Library	9.0			13.0		7.0			Firesong	29.0
-Firesong Bookcase, Tall Lava	 epic	Library	9.0			13.0		7.0			Firesong	29.0
-Firesong Chair, Lava	 superior	Dining	6.0			9.0					Firesong	15.0
-Firesong Lava Shelf, Tall	 superior	Dining	6.0			9.0					Firesong	15.0
-Firesong Throne, Lava	 legendary	Gallery	13.0		8.0	15.0		13.0			Firesong	49.0
-High Isle Censer, Metal	 epic	Undercroft	7.0		7.0			13.0			Firesong	27.0
-High Isle Dresser, Wood	 epic	Suite		8.0			13.0	7.0			Firesong	28.0
-High Isle Fountain, Wall	 epic	Courtyard	9.0			13.0		7.0			Firesong	29.0
-High Isle Nightstand, Dainty Wood	 fine	Suite					5.0				Firesong	5.0
-High Isle Nightstand, Wood	 superior	Suite		5.0			9.0				Firesong	14.0
-High Isle Teapot, Copper	 epic	Hearth	9.0				7.0	13.0			Firesong	29.0
+Alinor Easel, Carved	legendary	Gallery	10.0	10.0			15.0	15.0			Ascending Tide	50.0
+Alinor Painting, Unfinished	legendary	Gallery	13.0	10.0			11.0		15.0		Lost Depths	49.0
+Blackwood Cottage Painting, Unframed	legendary	Gallery	13.0	11.0			11.0			13.0	Waking Flame	48.0
+Blackwood Provisioning Station	legendary	Services	10.0	11.0		13.0	15.0				Ascending Tide	49.0
+Book Stack, Well-Read	fine	Library								5.0	High Isle	5.0
+Deadlands Archway	epic	Structures			7.0	13.0				7.0	Deadlands	27.0
+Deadlands Brazier, Bladed	superior	Lighting				6.0		9.0			Blackwood	15.0
+Deadlands Puzzle Cube	legendary	Undercroft	12.0		8.0	15.0		15.0			Ascending Tide	50.0
+Deadlands Tapestry, Mehrunes Dagon	legendary	Parlor	13.0		8.0			13.0	15.0		Ascending Tide	49.0
+Deadlands Throne	legendary	Gallery	10.0			13.0	15.0	15.0			Ascending Tide	53.0
+Dwarven Pipeline, Column	superior	Workshop				7.0		9.0			Morrowind / Clockwork	16.0
+Fargrave Balcony	superior	Structures					9.0	6.0			Ascending Tide	15.0
+Fargrave Book Stack, Levitating	epic	Library	9.0			7.0				13.0	Deadlands	29.0
+Fargrave Canopy, Massive	superior	Structures					6.0		9.0		Ascending Tide	15.0
+Fargrave Colonnade Pillar, Tall	superior	Courtyard	6.0			9.0					Ascending Tide	15.0
+Fargrave Defensive Spike, Corner	superior	Structures				6.0		9.0			Ascending Tide	15.0
+Fargrave Defensive Spike, Curved	superior	Structures				6.0		9.0			Ascending Tide	15.0
+Fargrave Defensive Spike, Straight	superior	Structures				6.0		9.0			Ascending Tide	15.0
+Fargrave Door	superior	Structures					9.0	6.0			Ascending Tide	15.0
+Fargrave Facade, Huge	superior	Structures	6.0			9.0					Ascending Tide	15.0
+Fargrave Platform, Square	superior	Structures	6.0			9.0					Ascending Tide	15.0
+Fargrave Post, Garden Wall	fine	Courtyard				5.0					Ascending Tide	5.0
+Fargrave Stairway, Stone	fine	Structures				5.0					Ascending Tide	5.0
+Fargrave Stairway, Wide Stone	superior	Structures	6.0			9.0					Ascending Tide	15.0
+Fargrave Wall, Exterior	superior	Structures	6.0			9.0					Ascending Tide	15.0
+Fargrave Wall, Garden	superior	Structures	6.0			9.0					Ascending Tide	15.0
+Fargrave Wall, Interior	superior	Structures	6.0			9.0					Ascending Tide	15.0
+Fargrave Water Globules, Static	legendary	Lighting	13.0	11.0		13.0					Ascending Tide	37.0
+High Isle Archway, Carved	superior	Structures				6.0	9.0				Lost Depths	15.0
+High Isle Basket, Woven	fine	Hearth					5.0				High Isle	5.0
+High Isle Beacon, Unlit	legendary	Workshop	10.0		9.0		15.0	15.0			Lost Depths	49.0
+High Isle Bed, Canopy Full	superior	Suite					6.0		9.0		High Isle	15.0
+High Isle Bed, Single	fine	Suite							5.0		High Isle	5.0
+High Isle Bench, Padded	superior	Dining					9.0		6.0		High Isle	15.0
+High Isle Bench, Sturdy	superior	Dining		5.0			9.0				High Isle	14.0
+High Isle Bookcase, Carved Filled	superior	Library		5.0			9.0				High Isle	14.0
+High Isle Bookcase, Wide Carved Filled	epic	Library		6.0			13.0			10.0	High Isle	29.0
+High Isle Brazier, Bowl	fine	Lighting						5.0			High Isle	5.0
+High Isle Brazier, Standing	superior	Lighting				6.0		9.0			High Isle	15.0
+High Isle Caravel, Miniature	legendary	Gallery	10.0				15.0		15.0		Lost Depths	40.0
+High Isle Carpet, Ballroom	superior	Parlor		5.0					9.0		High Isle	14.0
+High Isle Chair, Ornate	superior	Dining		5.0			9.0				High Isle	14.0
+High Isle Chair, Sturdy	superior	Dining		5.0			9.0				High Isle	14.0
+High Isle Counter, Rustic	fine	Dining					5.0				High Isle	5.0
+High Isle Counter, Sturdy	superior	Dining		5.0			9.0				High Isle	14.0
+High Isle Crab, Steamed	superior	Hearth	6.0	7.0							High Isle	13.0
+High Isle Crab, Steamed Pile	epic	Hearth	9.0	10.0						7.0	High Isle	26.0
+High Isle Cup, Full	fine	Hearth						5.0			High Isle	5.0
+High Isle Divider, Ornate	epic	Suite	7.0	8.0			13.0				High Isle	28.0
+High Isle Door, Sturdy	superior	Structures	6.0				9.0				Lost Depths	15.0
+High Isle Door, Turquoise	superior	Structures	6.0				9.0				Lost Depths	15.0
+High Isle Doorway, Half-Timber	fine	Structures				5.0					Lost Depths	5.0
+High Isle Doorway, Plaster	fine	Structures				5.0					Lost Depths	5.0
+High Isle Dresser, Carved	epic	Suite	7.0	8.0			13.0				High Isle	28.0
+High Isle Dresser, Rustic	fine	Suite					5.0				High Isle	5.0
+High Isle End Table, Carved	superior	Parlor		5.0			9.0				High Isle	14.0
+High Isle Goblet, Empty	fine	Hearth						5.0			High Isle	5.0
+High Isle Hearth, Tilework	legendary	Structures				15.0	15.0	13.0			Lost Depths	43.0
+High Isle Herb Rack, Ladder	superior	Hearth	8.0				6.0				High Isle	14.0
+High Isle Hourglass, Gold	legendary	Parlor	13.0	10.0	10.0						Lost Depths	33.0
+High Isle Lantern, Table	superior	Lighting				6.0		9.0			High Isle	15.0
+High Isle Mirror, Standing	epic	Suite			6.0		10.0	13.0			High Isle	29.0
+High Isle Mussel, Steamed Pile	superior	Hearth	6.0	7.0							High Isle	13.0
+High Isle Nightstand, Ornate	superior	Suite		5.0			9.0				High Isle	14.0
+High Isle Pillar, Ornate	superior	Courtyard	6.0				9.0				Lost Depths	15.0
+High Isle Plate, Compass Rose Setting	superior	Hearth		5.0			9.0				High Isle	14.0
+High Isle Platform, Tilework	superior	Structures	6.0			9.0					Lost Depths	15.0
+High Isle Platform, Wooden Rectangle	fine	Structures					5.0				Lost Depths	5.0
+High Isle Platform, Wooden Square	superior	Structures	6.0				9.0				Lost Depths	15.0
+High Isle Railing, Carved	superior	Structures	6.0				9.0				Lost Depths	15.0
+High Isle Railing Post, Carved	superior	Courtyard	6.0				9.0				Lost Depths	15.0
+High Isle Rug, Octagonal	fine	Parlor							5.0		High Isle	5.0
+High Isle Sconce, Glass	superior	Lighting				6.0		9.0			High Isle	15.0
+High Isle Sconce, Ornate	epic	Lighting				10.0	7.0	13.0			High Isle	30.0
+High Isle Serving Platter, Silver	epic	Hearth		8.0	6.0			13.0			High Isle	27.0
+High Isle Stairway, Large Castle	superior	Structures	6.0			9.0					Lost Depths	15.0
+High Isle Stairway, Tilework	epic	Structures	7.0			13.0	10.0				Lost Depths	30.0
+High Isle Stool, Cushioned	epic	Workshop		6.0			13.0		10.0		High Isle	29.0
+High Isle Stool, Rustic	fine	Workshop					5.0				High Isle	5.0
+High Isle Stool, Sturdy	superior	Workshop		5.0			9.0				High Isle	14.0
+High Isle Streetlight, Paired	superior	Lighting					9.0	6.0			High Isle	15.0
+High Isle Table, Compass Rose	epic	Dining	7.0	8.0			13.0				High Isle	28.0
+High Isle Table, Ornate	superior	Dining		5.0			9.0				High Isle	14.0
+High Isle Table, Rustic	fine	Dining					5.0				High Isle	5.0
+High Isle Table, Sturdy	superior	Dining		5.0			9.0				High Isle	14.0
+High Isle Tapestry, Seaside Tourney	legendary	Parlor	13.0	10.0					15.0		Lost Depths	38.0
+High Isle Tea Table, Round Wheel	epic	Parlor	7.0	8.0			13.0				High Isle	28.0
+High Isle Trunk, Ornate	epic	Suite	7.0	8.0			13.0				High Isle	28.0
+High Isle Trunk, Sturdy	superior	Suite		5.0			9.0				High Isle	14.0
+High Isle Turret, Conical Castle	epic	Structures	7.0			13.0	10.0				Lost Depths	30.0
+High Isle Walkway, Balcony	superior	Structures	6.0				9.0				Lost Depths	15.0
+High Isle Walkway, Curved Castle	superior	Structures	6.0			9.0					Lost Depths	15.0
+High Isle Walkway, Straight Castle	superior	Structures	6.0			9.0					Lost Depths	15.0
+High Isle Wall Mirror, Gilded	epic	Suite			9.0		7.0	10.0			High Isle	26.0
+High Isle Wall, Half-Timber	fine	Structures				5.0					Lost Depths	5.0
+High Isle Wall, Thin Castle	fine	Structures				5.0					Lost Depths	5.0
+High Isle Wardrobe, Compass Rose	epic	Suite	7.0	8.0			13.0				High Isle	28.0
+High Isle Wardrobe, Rustic	fine	Suite					5.0				High Isle	5.0
+High Isle Window, Turquoise	superior	Structures	8.0				6.0				Lost Depths	14.0
+Leyawiin Armoire, Formal	epic	Suite	9.0		6.0		13.0				Blackwood	28.0
+Leyawiin Wall, Castle	superior	Structures				9.0	6.0				Deadlands	15.0
+Potted Trees, Stonelore Dogwood	legendary	Conservatory	13.0	10.0	8.0	15.0					Lost Depths	46.0
+Psijic Banner, Long	epic	Parlor	6.0		6.0	7.0			12.0		Summerset	31.0
+Shark Jaw, Massive	legendary	Gallery	12.0	11.0						15.0	Lost Depths	38.0
+Solitude Game, Blood-On-The-Snow	legendary	Parlor	13.0		9.0		15.0				Stonethorn	37.0
+Stool, Carved	fine	Workshop					5.0	3.0			Homestead	8.0
+Druidic Bed, Ivy Stone Double	epic	Suite		6.0		13.0				10.0	Firesong	29.0
+Druidic Bed, Ivy Stone Single	superior	Suite	6.0			9.0					Firesong	15.0
+Druidic Bed, Wood Single	superior	Suite					6.0		9.0		Firesong	15.0
+Druidic Bench, Curved Stone	superior	Dining	6.0			9.0					Firesong	15.0
+Druidic Bench, Ivy Curved Stone	epic	Dining	9.0	6.0		13.0					Firesong	28.0
+Druidic Bench, Ivy Stone	superior	Dining	6.0			9.0					Firesong	15.0
+Druidic Bookcase, Short Stone	fine	Library				5.0					Firesong	5.0
+Druidic Bookcase, Tall Stone	superior	Library	6.0			9.0					Firesong	15.0
+Druidic Bookcase, Tall Wood	superior	Library		5.0			9.0				Firesong	14.0
+Druidic Bowl, Clay	fine	Hearth		4.0							Firesong	4.0
+Druidic Cage, Ivy Wood	superior	Workshop	6.0				9.0				Firesong	15.0
+Druidic Chair, Stone	fine	Dining				5.0					Firesong	5.0
+Druidic Chair, Wood	fine	Dining					5.0				Firesong	5.0
+Druidic Chandelier, Firesong	epic	Lighting	7.0	10.0		10.0					Firesong	27.0
+Druidic Dresser, Ivy Open Stone	superior	Suite	6.0			9.0					Firesong	15.0
+Druidic Dresser, Open Stone	superior	Suite	6.0			9.0					Firesong	15.0
+Druidic End Table, Ivy Stone	superior	Parlor	6.0			9.0					Firesong	15.0
+Druidic Game, Marble Maze	superior	Parlor	6.0			9.0					Firesong	15.0
+Druidic Gourd Bird Feeder	fine	Courtyard		4.0							Firesong	4.0
+Druidic Gourd Candle, Hanging	superior	Lighting		7.0		6.0					Firesong	13.0
+Druidic Gourd Candles, Stone	superior	Lighting		5.0		9.0					Firesong	14.0
+Druidic Hearth, Stone	epic	Lighting	7.0			13.0	10.0				Firesong	30.0
+Druidic Incense Burner, Clay	epic	Undercroft	9.0	10.0		7.0					Firesong	26.0
+Druidic Meditation Stones, Tall	superior	Courtyard	6.0			9.0					Firesong	15.0
+Druidic Mug, Clay	fine	Hearth		4.0							Firesong	4.0
+Druidic Nightstand, Stone	fine	Suite				5.0					Firesong	5.0
+Druidic Pillow, Woven	fine	Suite							5.0		Firesong	5.0
+Druidic Pot, Clay	superior	Hearth	6.0	7.0							Firesong	13.0
+Druidic Sculpture, Sphere	epic	Courtyard	7.0			13.0	10.0				Firesong	30.0
+Druidic Statue, Planter	epic	Courtyard	9.0	6.0		13.0					Firesong	28.0
+Druidic Table, Stone	superior	Dining	6.0			9.0					Firesong	15.0
+Druidic Table, Wood	fine	Dining					5.0				Firesong	5.0
+Druidic Tapestry, Woven	superior	Parlor		5.0					9.0		Firesong	14.0
+Druidic Trunk, Stone	epic	Suite	9.0		6.0	13.0					Firesong	28.0
+Druidic Wall Stone, Fertility	superior	Gallery	6.0			9.0					Firesong	15.0
+Druidic Wall Stone, Flame	superior	Gallery	6.0			9.0					Firesong	15.0
+Druidic Wall Stone, Spirits	superior	Gallery	6.0			9.0					Firesong	15.0
+Druidic Wind Chimes, Gourd	epic	Courtyard		10.0		7.0			10.0		Firesong	27.0
+Druidic Wind Chimes, Stone	superior	Courtyard				6.0			9.0		Firesong	15.0
+Firesong Bookcase, Short Lava	epic	Library	9.0			13.0		7.0			Firesong	29.0
+Firesong Bookcase, Tall Lava	epic	Library	9.0			13.0		7.0			Firesong	29.0
+Firesong Chair, Lava	superior	Dining	6.0			9.0					Firesong	15.0
+Firesong Lava Shelf, Tall	superior	Dining	6.0			9.0					Firesong	15.0
+Firesong Throne, Lava	legendary	Gallery	13.0		8.0	15.0		13.0			Firesong	49.0
+High Isle Censer, Metal	epic	Undercroft	7.0		7.0			13.0			Firesong	27.0
+High Isle Dresser, Wood	epic	Suite		8.0			13.0	7.0			Firesong	28.0
+High Isle Fountain, Wall	epic	Courtyard	9.0			13.0		7.0			Firesong	29.0
+High Isle Nightstand, Dainty Wood	fine	Suite					5.0				Firesong	5.0
+High Isle Nightstand, Wood	superior	Suite		5.0			9.0				Firesong	14.0
+High Isle Teapot, Copper	epic	Hearth	9.0				7.0	13.0			Firesong	29.0
