@@ -661,7 +661,7 @@ Deadlands Wall, Short Curved	Fine	Structures				5.0					Deadlands	5.0
 Deadlands Wall, Tall	Superior	Structures				9.0		6.0			Deadlands	15.0
 Deadlands Wall, Wide	Epic	Structures	7.0			13.0		10.0			Deadlands	30.0
 Deadlands Wardrobe, Ashen	Superior	Suite					9.0	6.0			Blackwood	15.0
-Deadlands, Brazier, Bladed	Superior	Lighting				6.0		9.0				15.0
+Deadlands Brazier, Bladed	Superior	Lighting				6.0		9.0			Blackwood	15.0
 Desk, Engraved	Superior	Library	6.0			9.0	12.0	6.0			Homestead	33.0
 Display Case, Large	Epic	Gallery	9.0	6.0		6.0	13.0				Summerset	34.0
 Display Case, Specimen	Epic	Gallery	6.0	8.0		6.0	12.0				Summerset	32.0
@@ -2112,7 +2112,7 @@ Solitude Footstool, Wood	Fine	Workshop					5.0				Greymoor	5.0
 Solitude Frying Pan, Long-Handled	Superior	Hearth	6.0					9.0			Greymoor	15.0
 Solitude Frying Pan, Trivet	Superior	Hearth	6.0					9.0			Greymoor	15.0
 Solitude Frying Pan, Wood Handle	Fine	Hearth					4.0	5.0			Greymoor	9.0
-Solitude Game, Blood-on-the-Snow	Legendary	Parlor	13.0		9.0		15.0					37.0
+Solitude Game, Blood-on-the-Snow	Legendary	Parlor	13.0		9.0		15.0				Stonethorn	37.0
 Solitude Game, Warrior and the Wolf	Epic	Parlor	9.0		6.0		13.0				Greymoor	28.0
 Solitude Gate, Wood	Epic	Structures				7.0	13.0	10.0			Stonethorn	30.0
 Solitude Goblet, Covered	Epic	Hearth		8.0	9.0			7.0			Greymoor	24.0
@@ -2406,7 +2406,6 @@ Blackwood Cottage Painting, Unframed	 Legendary	Gallery	13.0	11.0			11.0			13.0	
 Blackwood Provisioning Station	 Legendary	Services	10.0	11.0		13.0	15.0				Ascending Tide	49.0
 Book Stack, Well-Read	 Fine	Library								5.0	High Isle	5.0
 Deadlands Archway	 Epic	Structures			7.0	13.0				7.0	Deadlands	27.0
-Deadlands Brazier, Bladed	 Superior	Lighting				6.0		9.0			Blackwood	15.0
 Deadlands Puzzle Cube	 Legendary	Undercroft	12.0		8.0	15.0		15.0			Ascending Tide	50.0
 Deadlands Tapestry, Mehrunes Dagon	 Legendary	Parlor	13.0		8.0			13.0	15.0		Ascending Tide	49.0
 Deadlands Throne	 Legendary	Gallery	10.0			13.0	15.0	15.0			Ascending Tide	53.0
@@ -2504,7 +2503,6 @@ Leyawiin Wall, Castle	 Superior	Structures				9.0	6.0				Deadlands	15.0
 Potted Trees, Stonelore Dogwood	 Legendary	Conservatory	13.0	10.0	8.0	15.0					Lost Depths	46.0
 Psijic Banner, Long	 Epic	Parlor	6.0		6.0	7.0			12.0		Summerset	31.0
 Shark Jaw, Massive	 Legendary	Gallery	12.0	11.0						15.0	Lost Depths	38.0
-Solitude Game, Blood-On-The-Snow	 Legendary	Parlor	13.0		9.0		15.0				Stonethorn	37.0
 Stool, Carved	 Fine	Workshop					5.0	3.0			Homestead	8.0
 Druidic Bed, Ivy Stone Double	 Epic	Suite		6.0		13.0				10.0	Firesong	29.0
 Druidic Bed, Ivy Stone Single	 Superior	Suite	6.0			9.0					Firesong	15.0
