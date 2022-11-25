@@ -3,10 +3,12 @@
 ## Introduction
 
 
-For my Data Analysis 2 project, I'm analyzing the demand for materials needed to craft new furnishing plans added in major content patches for *The Elder Scrolls Online*. 
+In my [ESO Crafting Materials](https://github.com/racheldelong/ESO-Crafting-Material-Prices) project for Code Kentucky Data Analysis 1, I found that most furnishing material price increases began in the weeks between the start of public testing and the official release of new content patches in The Elder Scrolls Online.
+
+For my Data Analysis 2 project, I'm going to focus on the relationship between past content updates in *The Elder Scrolls Online* and the furnishing materials required to craft new plans added by each, and the impact each patch would likely have on demand.
 
 
-__Objective:__ assess how furnishing plans added in past major content patches would likely affect demand for crafting materials in The Elder Scrolls Online.
+__Objective:__ analyze the likely impact of furnishing plans added per patch on the price of furnishing materials in The Elder Scrolls Online.
 
 
 __Statement of Work:__ Create a dataframe of furnishing plans from The Elder Scrolls Online. For each plan, find which patch added it to the game, which housing materials it requires, and the furnishing category of the item crafted. Compare the impact of past patches on housing material demand.
@@ -113,11 +115,9 @@ Use a conda environment and included instructions for setup.
 
 __Changes to Project Plan:__
 
-*Original project plan was to analyze Tales of Tribute card game matches.*
+*Original project was going to analyze Tales of Tribute card game matches. Changed project to ESO Furnishing Plan Materials to build on Data 1 project topic and have more options for datasets to meet project requirements.*
 
-*Changed project to ESO Furnishing Plan Materials to build on Data 1 project topic and have more options for additional datasets.*
-
-
+![Carousel made in Elder Scrolls Online housing](images/carousel.jpg 'Thanksgiving scene made in ESO housing')
 
 
 
